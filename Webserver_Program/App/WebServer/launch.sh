@@ -1,2 +1,5 @@
 #!/bin/sh
-httpd -h /mnt/SDCARD/HTTP
+
+port=80
+
+httpd -p $port -h /mnt/SDCARD/HTTP

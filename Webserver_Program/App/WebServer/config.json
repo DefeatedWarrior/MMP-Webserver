@@ -3,5 +3,5 @@
 "icon":"tweaks_network.png",
 
 "launch":"launch.sh",
-"description":"Starts Webserver in HTTP Folder"
+"description":"Starts Webserver"
 }
