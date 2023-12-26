@@ -1,0 +1,7 @@
+{
+"label":"Web Server",
+"icon":"tweaks_network.png",
+
+"launch":"launch.sh",
+"description":"Starts Webserver in HTTP Folder"
+}
